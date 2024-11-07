@@ -1,8 +1,12 @@
+
+minimalistas:
 UNICLO: https://www.uniqlo.com/es/es/women/accessories/bags?path=%2C%2C85054%2C
 
 OISHO : https://www.oysho.com/es/bolsos-de-mujer-n4727
 
 YOGA: https://bornlivingyoga.com/pages/search-results-page?q=BOLSO
+
+Reciclados:
 
 rains= https://www.es.rains.com/collections/waterproof-tote-bags
 
