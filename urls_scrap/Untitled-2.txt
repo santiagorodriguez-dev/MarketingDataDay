@@ -15,3 +15,7 @@ Parfois = https://www.parfois.com/es/es/search/?q=bolsos&lang=es_ES&_conv_v=vi%3
 Pepemol = https://pepemoll.es/categoria-producto/trendy-bags/bolsos-nueva-coleccion/otono-invierno/bolso-de-hombro/
 
 abbachino = https://abbacino.es/es/28-bolsos?categorias=multifuncionales,multifuncionales
+
+leprik = https://www.lefrik.com/es/collections/tote-bags
+
+googshop = https://thegooodshop.com/categoria/bolsos/
